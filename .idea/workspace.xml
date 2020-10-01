@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
@@ -154,7 +152,20 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="git add . &amp;&amp; git commit -m 'Completed module'&#10;git push origin master">
+      <created>1601549611050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601549611050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git add . &amp;&amp; git commit -m 'Completed module'" />
+    <MESSAGE value="git add . &amp;&amp; git commit -m 'Completed module'&#10;git push origin master" />
+    <option name="LAST_COMMIT_MESSAGE" value="git add . &amp;&amp; git commit -m 'Completed module'&#10;git push origin master" />
   </component>
   <component name="WindowStateProjectService">
     <state x="200" y="96" key="#PSD" timestamp="1601541146027">
@@ -169,10 +180,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1601539051132" />
-    <state x="210" y="0" key="CommitChangelistDialog2" timestamp="1601549567483">
+    <state x="210" y="0" key="CommitChangelistDialog2" timestamp="1601553210128">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="210" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601549567483" />
+    <state x="210" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601553210128" />
     <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1601541414588">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
