@@ -12,6 +12,7 @@
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,7 +218,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601579391912</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Second commit">
+      <created>1601579763705</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601579763705</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Second commit">
+      <created>1601579846757</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601579846757</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -227,8 +242,6 @@
     <MESSAGE value="Second commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="200" y="96" key="#PSD" timestamp="1601541146027">
@@ -247,10 +260,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1601539051132" />
-    <state x="210" y="0" key="CommitChangelistDialog2" timestamp="1601579761327">
+    <state x="210" y="0" key="CommitChangelistDialog2" timestamp="1601579844606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="210" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601579761327" />
+    <state x="210" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601579844606" />
     <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1601579346838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -271,10 +284,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601541941242" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601574183797">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601579881452">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601574183797" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601579881452" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601578846139">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -283,9 +296,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="472" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1601553668104" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601571232782">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601581729139">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601571232782" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601581729139" />
   </component>
 </project>
